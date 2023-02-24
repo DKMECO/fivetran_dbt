@@ -9,3 +9,12 @@ models:
         tests:
           - unique
           - not_null
+
+models:
+  - name: dm_people_adujst
+    description: "demo model"
+
+
+models:
+  - name: '区域经理业绩'
+    description: "demo model"
