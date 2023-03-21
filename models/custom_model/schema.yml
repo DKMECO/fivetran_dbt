@@ -27,20 +27,25 @@ models:
 
 
 models:
-  - name: 'Salesfoece_cost'
+  - name: 'Salesforce_cost'
     description: "demo model"
+
 models:
-  - name:'Google_Ads_cost'
+  - name: 'Google_Ads_cost'
     description: "demo model"
+
 models:
-  - name: 'Tiktok_Ads_cost'
+  - name: 'Tiktop_Ads_cost'
     description: "demo model"
+
 models:
-  - name:'Facebook_Ads_cost'
+  - name: 'Facebook_Ads_cost'
     description: "demo model"
+
 models:
   - name: 'Twitter_Ads_cost'
     description: "demo model"
+
 models:
   - name: 'Ads_total_cost'
     description: "demo model"
